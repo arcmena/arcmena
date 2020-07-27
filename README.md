@@ -1,15 +1,26 @@
-#### Hello there 👋                            ... General Kenobi
+## Hello there! ✋
 
-### My name is Marcelo, I'm a web developer and enthusiast of the best technologies.
-[![Linkedin Badge](https://img.shields.io/badge/-marcelomena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-mena/)](https://www.linkedin.com/in/marcelo-mena/) 
-[![Instagram Badge](https://img.shields.io/badge/-@arcmena-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arcmena_/)](https://www.instagram.com/arcmena_/) 
+<h3 align="center">
+  My name is Marcelo, I'm a front-end developer and enthusiast of the best technologies.
+<p align="center"><br/>
+   <a href="https://www.linkedin.com/in/marcelo-mena/">
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+  </a>
+  <a href="https://www.instagram.com/arcmena_/">
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+  </a>
+  <h5 align="center">Portifolio - Working on it! </h5>
+</p>
+</h3>
 
 ### About me
 
-Currently working with React and Node.
+- I love developing interfaces and work on their logic.
+- Learning and practicing UI/UX concepts.
+- On my instagram I share some experiences and my day-by-day developing progress.
 
-Always loved developing interfaces and designing them, have been working hard to learn the best front-end practices, and now I'm also improving my UI Design skills. 
+### Working with:
 
-On my instagram I share some experiences and my day-by-day developing progress.
-
-**Portifolio** - Working on it!
+- React.Js
+- Node.Js & Express
+- Figma
