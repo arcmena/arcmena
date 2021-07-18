@@ -16,14 +16,8 @@
 ### About me
 
 - I love developing interfaces and work on their logic.
-- Learning and practicing UI/UX concepts.
 - On my instagram I share some experiences and my day-by-day developing progress.
 
-<center>
-  <table>
-    <tr>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=arcmena&theme=dark"/></td>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcmena&layout=compact&theme=dark" /></td>
-    </tr>   
-  </table>
-</center>  
+<p align="start">
+ <img src="https://github-readme-stats.vercel.app/api?username=arcmena&show_icons=true&theme=dark" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcmena&layout=compact&theme=dark" alt="languages" height="165">
+</p>
