@@ -3,7 +3,7 @@
 <h3 align="center">
   My name is Marcelo, I'm a Front End Developer and enthusiast of the best technologies.
 <p align="center"><br/>
-  <h5 align="center"><a href="https://marcelotheark.com/">Portifolio</a></h5>
+  <h5 align="center"><a href="https://marcelotheark.com/">Portfolio</a></h5>
 </p>
 </h3>
 
