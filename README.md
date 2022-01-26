@@ -8,7 +8,7 @@
 
 - I ❤ creating interfaces and work on their logic.
 - Passionate about creating amazing user experiences.
-- Studying UI/UX concepts to ever-improve the user experiences I develop.
+- Studying UI/UX concepts to ever-improve the experiences I develop.
 - On my instagram I share some experiences and my day-by-day developer progress.
 
 <p align="start">
