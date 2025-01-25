@@ -6,7 +6,7 @@
 
 ## About me
 
-- Fullstack dev with 4 years of experience.
+- Fullstack dev with 6 years of experience.
 - Focused most of my career in the Front End.
 - I ❤ creating interfaces and work on their logic.
 - Passionate about creating amazing user experiences.
