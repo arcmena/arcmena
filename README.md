@@ -1,11 +1,8 @@
-## Hello there! ✋
-
-<h3 align="center">
-  My name is Marcelo, I'm a Fullstack Developer and enthusiast of the best technologies.
+<h1 align="center">
+👋 I'm Marcelo, Fullstack Developer and enthusiast of the best technologies.
 </h3>
 
-## About me
-
+A little bit about me:
 - Fullstack dev with 6 years of experience.
 - Focused most of my career in the Front End.
 - I ♥️ creating memorable user experiences.
