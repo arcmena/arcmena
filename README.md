@@ -3,7 +3,7 @@
 </h3>
 
 A little bit about me:
-- Fullstack dev with 6 years of experience.
+- Fullstack dev with 8 years of experience.
 - Focused most of my career in the Front End.
 - I ♥️ creating memorable user experiences.
 - Building feature rich and scalable products.
