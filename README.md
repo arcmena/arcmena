@@ -3,5 +3,5 @@
 </h3>
 
 A little bit about me:
-- 8 years of experience.
+- 8+ years of experience.
 - I ♥️ creating memorable user experiences, feature rich and scalable products
